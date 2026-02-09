@@ -8,4 +8,4 @@ venv/
 .vscode/
 
 # PDF Raporu yuklensin mi? (Istersen bunu sil, rapor da yuklensin)
-*.pdf
+#*.pdf
