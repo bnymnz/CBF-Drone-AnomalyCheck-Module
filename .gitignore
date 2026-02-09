@@ -1,0 +1,11 @@
+# Gereksiz Python dosyalari
+__pycache__/
+*.pyc
+
+# Sanal Ortam (Anaconda klasoru yuklenmesin)
+env/
+venv/
+.vscode/
+
+# PDF Raporu yuklensin mi? (Istersen bunu sil, rapor da yuklensin)
+*.pdf
